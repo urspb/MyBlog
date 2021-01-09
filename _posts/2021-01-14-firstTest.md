@@ -1,12 +1,13 @@
 ---
-toc: true
+toc: false
 layout: post
 description: My first markdown post
 categories: [markdown]
-title: Erster Test
+title: Erster Post
 ---
 
-# Erster Test
-Dies ist ein Testeintrag in Form einer MarkDown-Datei.
+# ... ein erster Versuch
+Dies ist ein Testeintrag in Form einer MarkDown-Datei. 
+Auch ohne Inhaltsverzeichnis
 
 nun ja...
