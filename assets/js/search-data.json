@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Firsttest",
-            "content": "Erster Test . Dies ist ein Testeintrag in Form einer MarkUp-Datei. . nun ja… .",
-            "url": "https://urspb.github.io/MyBlog/2021/01/14/firstTest.html",
-            "relUrl": "/2021/01/14/firstTest.html",
+            "title": "Erster Test",
+            "content": "Erster Test . Dies ist ein Testeintrag in Form einer MarkDown-Datei. . nun ja… .",
+            "url": "https://urspb.github.io/MyBlog/markdown/2021/01/14/firstTest.html",
+            "relUrl": "/markdown/2021/01/14/firstTest.html",
             "date": " • Jan 14, 2021"
         }
         
