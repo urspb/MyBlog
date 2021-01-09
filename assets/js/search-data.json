@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "Erster Test",
-            "content": "Erster Test . Dies ist ein Testeintrag in Form einer MarkDown-Datei. . nun ja… .",
+            "title": "Erster Post",
+            "content": "… ein erster Versuch . Dies ist ein Testeintrag in Form einer MarkDown-Datei. Auch ohne Inhaltsverzeichnis . nun ja… .",
             "url": "https://urspb.github.io/MyBlog/markdown/2021/01/14/firstTest.html",
             "relUrl": "/markdown/2021/01/14/firstTest.html",
             "date": " • Jan 14, 2021"
